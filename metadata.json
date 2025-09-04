@@ -1,0 +1,5 @@
+{
+  "name": "Electron Transport Chain Animation",
+  "description": "An interactive animation of the Electron Transport Chain process in mitochondria, demonstrating how ATP is produced. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
